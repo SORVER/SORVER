@@ -5,7 +5,7 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/60802724/200031172-2a596480-3d14-4950-b87d-b38f85b2f6ae.png)
 
 > we will use memoziation to optimize the time by saving the maximum of the route for every index and remainder of the capacity in the bag.
-```
+```cpp
 #include <iostream>
 #include <bits/stdc++.h>
 #define ll long long
