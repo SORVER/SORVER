@@ -6,7 +6,7 @@
 
 🧠 Strong grasp of data structures, algorithms, and OOP principles.
 
-🥈 Ranked 7th in ICPC-ECPC qualifications, solving +400 problems on platforms like Codeforces and LeetCode.
+🥈 Ranked 7th in ICPC-ECPC qualifications, solving +700 problems on platforms like Codeforces and LeetCode.
 
 🌱 Currently expanding my skill set with Backend technologies **(Flask, Django, PostgreSQL)**, **AJAX**, and web scraping (Beautiful Soup).
 
