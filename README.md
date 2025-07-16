@@ -8,11 +8,7 @@
 
 🥈 Ranked 7th in ICPC-ECPC qualifications, solving +700 problems on platforms like Codeforces and LeetCode.
 
-🌱 Currently expanding my skill set with Backend technologies **(Flask, Django, PostgreSQL)**, **AJAX**, and web scraping (Beautiful Soup).
-
-📚 Furthering my education, I delved into Data Science with Python, Jupiter notebook, Numpy, and pandas.
-
-🛠️ Experienced in designing and building console and desktop applications using C#.
+🌱 Currently expanding my skill set with Backend technologies **(Express, Typescript,..)**.
 
 🚀 Tech leader at Tech Leaders' Program, Next Coders Society (Oct 2022 – 2023), assisting diverse learners in grasping programming concepts.
 
