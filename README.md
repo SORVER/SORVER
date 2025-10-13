@@ -2,15 +2,18 @@
 <h3 align="center">A passionate Backend developer 🚀⚡</h3>
 
 
-👋 Hey, I'm Abdelsalam Mostafa, an undergraduate software engineer and competitive programmer with a passion for making a positive impact in the world.
+ Hey, I'm Abdelsalam Mostafa — a passionate Software Engineer and Competitive Programmer who loves building impactful software products.
 
 🧠 Strong grasp of data structures, algorithms, and OOP principles.
 
-🥈 Ranked 7th in ICPC-ECPC qualifications, solving +700 problems on platforms like Codeforces and LeetCode.
+🥈 Ranked 7th in ICPC-ECPC qualifications and ACPC Finalist, solving 700+ problems on platforms like Codeforces and LeetCode.
 
-🌱 Currently expanding my skill set with Backend technologies **(Express, Typescript,..)**.
+🌱 Currently expanding my skill set with Backend technologies (TypeScript, Express, Node.js, Prisma, Zod, ...).
 
-🚀 Tech leader at Tech Leaders' Program, Next Coders Society (Oct 2022 – 2023), assisting diverse learners in grasping programming concepts.
+💾 Currently studying **Database Internals** and building a **Redis clone** to deepen my understanding of database systems and performance optimization.
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
